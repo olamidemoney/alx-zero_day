@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "School"
-school is open
+echo "school is open"
